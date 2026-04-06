@@ -1,3 +1,5 @@
+//누적합을 하나하나 전부 다 생각했는데 arr[i]=arr[i]+arr[i−1] 이게(지피티 힌트) 핵심이었음
+
 #include <stdio.h>
 
 int main(void)
